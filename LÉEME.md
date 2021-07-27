@@ -19,7 +19,7 @@ Las mismas estan almacenadas en un directorio que contiene una carpeta por cada 
 ![Formato del directorio de datos](Images/DirFormat.png)  
 
 ## Análisis de Datos  
-Para el análisis de datos se utilizó un Notebook de Jupyter y los siguientes módulos de Python:
+Para el análisis de datos se utilizó un [Notebook de Jupyter](https://github.com/RodrigoAzpilcueta/WeatherDataExploration/blob/main/BASM_WeatherData.ipynb) y los siguientes módulos de Python:
 * Openpyxl para importar los datos de los archivos .xlsx.
 * Numpy y Pandas para la manipulación, limpieza y análisis de datos.
 * Bokeh, Pandas_Bokey y Matplotlib para graficar.
