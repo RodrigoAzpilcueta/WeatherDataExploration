@@ -10,7 +10,7 @@ La Base cuenta con el Laboratorio San Martín (LASAN) del Instituto Antártico A
 ## Clima 
 La temperatura es variable. En invierno llega a los -37ºC y en verano a los 8ºC. El mar se congela desde los meses de junio a noviembre; su espesor promedio es de 1,20 metros. La precipitación anual promedio oscila en los 500 milímetros; en los últimos años, también se han registrado algunas lluvias.
 ## Datos  
-El Servicio Meteorológico Nacional registra diariamente los parámetros climáticos mas relevantes. Mensualmente se genera un resumen de los datos en una planilla de Excel con un formato bien definido que llevan el nombre de "Planillas CLIMAT". Sobre estas planillas se realizará el análisis.  
+El Servicio Meteorológico Nacional registra diariamente los parámetros climáticos mas relevantes. Mensualmente se genera un resumen de los datos en una planilla de Excel con un formato bien definido que llevan el nombre de [Planillas CLIMAT](https://github.com/RodrigoAzpilcueta/WeatherDataExploration/tree/main/Data%20Example). Sobre estas planillas se realizará el análisis.  
 
 ![Planilla CLIMAT](Images/SheetExample.png)  
 
