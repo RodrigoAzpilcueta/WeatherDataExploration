@@ -42,7 +42,24 @@ Se automatizo el proceso de extracción de datos con el modulo Openpyxl, se extr
 Los datos se almacenaron en un DataFrame donde se corrigieron datos erroneos y faltantes. Se agrego la Feature TMean que corresponde a la temperatura media diaria la cual se calcula en base al promedio de las cuatro temperaturas medidas.  
 # Graficos  
 Se realizó con Bokeh un grafico de barras interactivo de las precipitaciones mensuales y anuales.  
+
+
 ![Precipitaciones Mensuales](Images/PrecMen.png)  
+
+
 ![Precipitaciones Anuales](Images/PrecAn.png)  
 
-De la misma forma con Bokeh se realizó los graficos interactivos de temperaturas medias, máximas y minimas  (diarias y mensuales).
+De la misma forma con Bokeh se realizó los graficos interactivos de temperaturas medias, máximas y minimas  (diarias y mensuales).  
+
+![Temperaturas Medias Diarias](Images/TempMed.png)  
+
+![Temperaturas Medias Mensuales](Images/TempMedMen.png)  
+
+Se agregó un histograma interactivo de temperaturas medias por años para analizar su distribución.  
+
+![Histograma de Temperaturas medias](Images/HistTemp.png)  
+
+Del gráfico anterior se deduce que la distribución de temperaturas medias se puede aproximar para todos los años a una distribución del tipo Rayleigh. 
+
+![Distribución](Images/Rayleigh.png) 
+
